@@ -1,67 +1,52 @@
-# Dishairano Kenneth de Boer
+# Dishairano de Boer
 
-Full-stack developer focused on helping product teams move fast without losing reliability.
+Developer from the Netherlands building audio software and sim-racing tools.
 
-- Location: Netherlands
-- Building: **SuperGMS** ñ a hospitality & events platform
-- Open source: Supabase, Next.js, and the broader TypeScript ecosystem
-- Currently learning: modern C#/.NET capabilities
-- Collaboration: happy to partner on web, API, and DevOps problems that need polish
+- üéõÔ∏è Building **[Hardwave Studios](https://hardwavestudios.com)** ‚Äî audio tools for harder-styles producers
+- üèéÔ∏è Building **[MyRacingData](https://myracingdata.com)** ‚Äî sim-racing telemetry & league platform
+- ü¶Ä Mostly working in **Rust, TypeScript, and Python**
 
 ---
 
-## What I am working on
+## Current Projects
 
-- **Engineering** ñ Leading the build-out of SuperGMS, covering React frontends, NestJS APIs, and deployment pipelines.
-- **Learning** ñ Deepening my C#/.NET skillset and sharpening observability workflows.
-- **Community** ñ Writing guides and improving tooling for the frameworks I rely on.
-
----
-
-## Open Source Highlights
-
-- [Supabase Docs ñ Document OAuth callback for SvelteKit SSR](https://github.com/supabase/supabase/pull/39673)
-- [Next.js ñ Respect custom `pageExtensions` in `@next/next/no-html-link-for-pages`](https://github.com/vercel/next.js/pull/85102)
-- I gravitate to issues where developer experience and accuracy both matter.
-
----
-
-## Selected Projects
-
-| Project | Stack | Notes |
+| Project | Stack | What it is |
 | --- | --- | --- |
-| **SuperGMS** | React, TypeScript, NestJS, PostgreSQL | Multi-tenant management platform for hospitality teams. |
-| **Portfolio** ([jhosting.nl](https://jhosting.nl)) | Next.js, Tailwind, Vercel | Curated case studies, contact, and brand work. |
-| **Automation & Tooling** | Node.js, GitHub Actions, Terraform | Internal utilities for deployment, monitoring, and billing tasks. |
+| [hardwave-daw](https://github.com/Dishairano/hardwave-daw) | Rust, Tauri, TypeScript | Free, open-source DAW with real-time multiplayer |
+| [hardwave-suite](https://github.com/Dishairano/hardwave-suite) | TypeScript | Sample organizer for harder-styles producers |
+| Hardwave VST line ([LoudLab](https://github.com/Dishairano/hardwave-loudlab-vst), [Analyser](https://github.com/Dishairano/hardwave-analyser-vst), [PumpControl](https://github.com/Dishairano/hardwave-pumpcontrol-vst), [WideBoi](https://github.com/Dishairano/hardwave-wideboi-vst), [Spotlight](https://github.com/Dishairano/hardwave-spotlight-vst)) | Rust (nih-plug) | VST3/CLAP plugins ‚Äî mastering, analysis, volume shaping, stereo width, lightshow generation |
+| [myracingdata-telemetry](https://github.com/Dishairano/myracingdata-telemetry) | Python | Telemetry capture for Assetto Corsa & Le Mans Ultimate |
+| [cswatch-desktop](https://github.com/Dishairano/cswatch-desktop) | Rust | CS2 desktop companion for cswatch.gg |
 
 ---
 
-## Technical Toolkit
+## Open Source
 
-**Languages** ñ TypeScript, JavaScript, C#, PHP, Python, SQL
+- [Next.js ‚Äî Respect custom `pageExtensions` in `@next/next/no-html-link-for-pages`](https://github.com/vercel/next.js/pull/85102)
+- [Supabase Docs ‚Äî OAuth callback example for SvelteKit SSR](https://github.com/supabase/supabase/pull/39673)
+- [nih-plug-hardwave](https://github.com/Dishairano/nih-plug-hardwave) ‚Äî patched nih-plug with host-initiated resize support
 
-**Frameworks & Libraries** ñ React, Next.js, NestJS, Laravel, TailwindCSS, Sass
+---
 
-**Data & Cloud** ñ PostgreSQL, MySQL, Supabase, Docker, Linux
+## Toolkit
 
-**Workflows** ñ Git, GitHub Actions, CI/CD design, automated testing, Storybook & design systems
+**Languages** ‚Äî Rust, TypeScript, JavaScript, Python, PHP, C#, SQL
+
+**Audio** ‚Äî nih-plug, VST3/CLAP, DSP, Tauri-based audio apps
+
+**Web** ‚Äî React, Next.js, Node.js, TailwindCSS, PostgreSQL, Supabase, Docker, Linux
 
 ---
 
 ## Connect
 
-- Email: [dishaionproduction@hotmail.com](mailto:dishaionproduction@hotmail.com)
-- Site: [jhosting.nl](https://jhosting.nl)
-- Discord: `jhosting_dishairano`
+- üåê [hardwavestudios.com](https://hardwavestudios.com)
+- üèÅ [myracingdata.com](https://myracingdata.com)
 
 ---
 
 ## GitHub Snapshot
 
-<a href="https://github.com/Dishairano"><img src="https://github-readme-stats.vercel.app/api?username=Dishairano&show_icons=true&count_private=true&title_color=3382ed&text_color=334155&icon_color=0ea5e9&bg_color=ffffff&hide_border=true" alt="Dishairano&#39;s GitHub stats" /></a>
+<a href="https://github.com/Dishairano"><img src="https://github-readme-stats.vercel.app/api?username=Dishairano&show_icons=true&count_private=true&title_color=3382ed&text_color=334155&icon_color=0ea5e9&bg_color=ffffff&hide_border=true" alt="Dishairano's GitHub stats" /></a>
 
 <a href="https://github.com/Dishairano"><img src="https://streak-stats.demolab.com?user=Dishairano&theme=default&hide_border=true&ring=3382ed&fire=3382ed" alt="GitHub Streak" /></a>
-
----
-
-> ìBuild once, polish twice.î ñ guiding the way I ship features, docs, and tooling.
