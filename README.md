@@ -13,7 +13,7 @@ Developer from the Netherlands building audio software and sim-racing tools.
 | Project | Stack | What it is |
 | --- | --- | --- |
 | [hardwave-daw](https://github.com/Dishairano/hardwave-daw) | Rust, Tauri, TypeScript | Free, open-source DAW with real-time multiplayer |
-| [hardwave-suite](https://github.com/Dishairano/hardwave-suite) | TypeScript | Sample organizer for harder-styles producers |
+| [hardwave-suite](https://github.com/Dishairano/hardwave-suite) | Tauri, React, TypeScript | Desktop hub for Hardwave products — installs, updates & subscriptions |
 | Hardwave VST line ([LoudLab](https://github.com/Dishairano/hardwave-loudlab-vst), [Analyser](https://github.com/Dishairano/hardwave-analyser-vst), [PumpControl](https://github.com/Dishairano/hardwave-pumpcontrol-vst), [WideBoi](https://github.com/Dishairano/hardwave-wideboi-vst), [Spotlight](https://github.com/Dishairano/hardwave-spotlight-vst)) | Rust (nih-plug) | VST3/CLAP plugins — mastering, analysis, volume shaping, stereo width, lightshow generation |
 | [myracingdata-telemetry](https://github.com/Dishairano/myracingdata-telemetry) | Python | Telemetry capture for Assetto Corsa & Le Mans Ultimate |
 | [cswatch-desktop](https://github.com/Dishairano/cswatch-desktop) | Rust | CS2 desktop companion for cswatch.gg |
